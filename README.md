@@ -5,5 +5,8 @@ It is not perfect but it works...
 
 How to run:
 
+<code>
 library(shiny)
+
 runGitHub( "C64Sprite", "gchlapinski")
+</code>
