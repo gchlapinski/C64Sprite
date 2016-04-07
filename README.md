@@ -1,5 +1,5 @@
 # C64Sprite
-My first shiny - tool to create C64 sprite
+My first shiny - tool to create C64 sprite [https://www.c64-wiki.com/index.php/Sprite](https://www.c64-wiki.com/index.php/Sprite)
 
 It is not perfect but it works...
 
